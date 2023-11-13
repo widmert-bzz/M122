@@ -1,0 +1,3 @@
+```bash
+mv filename directory
+```
