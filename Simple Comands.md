@@ -2,13 +2,17 @@
 
 ###### Delete Files:
 ```bash
-rm file
+rm filepath
 ```
 ###### Copy Files:
 ```bash
-mv file directory
+mv filepath directory
 ```
 ###### Move Files:
 ```bash
-mv filename directory
+mv filepath directory
+```
+###### Print Path:
+```bash
+pwd
 ```
