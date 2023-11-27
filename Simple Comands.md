@@ -6,7 +6,7 @@ rm filepath
 ```
 ###### Copy Files:
 ```bash
-mv filepath directory
+cp filepath directory
 ```
 ###### Move Files:
 ```bash
